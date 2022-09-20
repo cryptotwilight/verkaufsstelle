@@ -1,5 +1,5 @@
 # verkaufsstelle
-[](https://github.com/cryptotwilight/verkaufsstelle/blob/555e1e3e62cf090d8fe589898cba6f30a3925576/media/verkaufsstelle%20logo.png)
+<img src="https://github.com/cryptotwilight/verkaufsstelle/blob/555e1e3e62cf090d8fe589898cba6f30a3925576/media/verkaufsstelle%20logo.png" alt="Verkaufsstelle the Web3 way to sell">
 This is the Verkaufsstelle repository. Verkaufsstelle is a straight forward direct sales mechanism built in Web3. 
 Verkaufsstelle works by using the Open Product project to enable the creation of custom products which are then sold i.e. 
 payments are recieved through the Verkaufsstelle contract. Sellers can retrieve payments that they have recieved and can 
