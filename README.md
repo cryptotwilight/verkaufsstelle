@@ -5,7 +5,7 @@ Verkaufsstelle works by using the Open Product project to enable the creation of
 payments are recieved through the Verkaufsstelle contract. Sellers can retrieve payments that they have recieved and can 
 withdraw their funds permissionlessly. 
 
-The deployment addresses for Verkaufsstelle on the EVMOS blockchain are listed below: 
+The deployment addresses for Verkaufsstelle on the EVMOS Testnet blockchain are listed below: 
 | Contract	| Address |        | 
 ------------|---------|--------| 
 | OpenRolesAdmin | 0x5Ae18A383b6440E5A6374D9140a6af9e862BC59b | administration of service owner roles | 
